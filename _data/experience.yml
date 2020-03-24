@@ -1,7 +1,7 @@
 # Jobs
 # Artos, Product Manager
-- logo: images/artos-logo.jpg
-  company: Artos Systems
+- logo: images/artos-logo.svg
+#  company: Artos Systems
   position: Product Manager
   duration: Dec, 2019 &mdash; Present
   summary: Product Manager role overview, employee of the year award	<ul class="resume-item-list"><li>highlight 1</li><li>highlight 2</li></ul>
@@ -12,7 +12,7 @@
 
 # WhoSampled, Digital Product & Content Manager
 - logo: images/whosampled-logo.png
-  company: WhoSampled
+#  company: WhoSampled
   position: Digital Product & Content Manager
   duration: Jun, 2008  &mdash; May, 2010
   summary: Role overview <ul class="resume-item-list"><li>Oversaw the forecasting, production, testing and release of the various digital products for an online music discovery service with over 10.7 million monthly page views from 2.7 million unique visitors, across all major platforms (Web, Mobile, iOS & Android)</li><li>Lead delivery of digital product and continuously testing, measuring & building on new and existing features, using quantative analytical data and qualitative user feedback to increase traffic by engaging new users with 125% year on year growth</li></ul>
