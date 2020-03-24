@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Scrum
+  description: some words about scrum
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Agile Methodologies
+  description: some words about agile
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Technical Toolbox
+  description: GitHub, Jira, Trello, MS Office, G Analytics, Sketch, Blender, Omnigraffle
+
+# Digital content development and creation
+- skill: Developer Skills
+  description: HTML, CSS, Javascript, Python, Solidity, Bash, Markdown
