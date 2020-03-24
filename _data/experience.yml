@@ -1,16 +1,16 @@
 # Jobs
 # Artos, Product Manager
-- company: Artos Systems
+- company: <img src="images/artos-logo.jpg" alt="artos systems" class="company-logo no-print" itemprop="image"> Artos Systems
   position: Product Manager
   duration: Dec, 2019 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Product Manager role overview	<ul class="resume-item-list"><li>highlight 1</li><li>highlight 2</li></ul>
 
 - position: Product Owner
-  duration:  Jun, 2018 &mdash; Dec, 2019
-  summary: <ul class="resume-item-list"><li>Leading three concurrent scrum teams across front-end, back-end and blockchain specializations making story prioritizations towards unified product goals</li><li>Bridging the technical team and various business divisions to ensure our ambitious roadmap and feature offerings deliver to high standards satisfying the requirements of all key stakeholders</li><li>Built the Aventus Protocol; a public blockchain, Ethereum-based protocol to support a new smart ticketing standard</li><li>Blockchain product design incorporating; complex game theory, cryptography, governance and zero-knowledge proofs whilst designing a decentralized network with the aim to be an open-sourced and self-governing system</li><li>Designed and implemented a RESTful API and back-end microservice infastructure from the ground-up to simplify interaction with complex blockchain interfacing</li><li>Building wireframes, sequence flow diagrams, architectural prototypes and writing technical specification documents for new product features whilst accounting for UX considerations</li><li>Collaborating with QA to ensure thorough testing for all new features whilst managing open issues with relevant parties to minimize any down-time on live environments</li><li>Marketing liaison to assist with launch and press strategy coordination for exciting product developments</li>
+  duration: Jun, 2018 &mdash; Dec, 2019
+  summary: Product Owner role overview <ul class="resume-item-list"><li>Leading three concurrent scrum teams across front-end, back-end and blockchain specializations making story prioritizations towards unified product goals</li><li>Bridging the technical team and various business divisions to ensure our ambitious roadmap and feature offerings deliver to high standards satisfying the requirements of all key stakeholders</li><li>Built the Aventus Protocol; a public blockchain, Ethereum-based protocol to support a new smart ticketing standard</li><li>Blockchain product design incorporating; complex game theory, cryptography, governance and zero-knowledge proofs whilst designing a decentralized network with the aim to be an open-sourced and self-governing system</li><li>Designed and implemented a RESTful API and back-end microservice infastructure from the ground-up to simplify interaction with complex blockchain interfacing</li><li>Building wireframes, sequence flow diagrams, architectural prototypes and writing technical specification documents for new product features whilst accounting for UX considerations</li><li>Collaborating with QA to ensure thorough testing for all new features whilst managing open issues with relevant parties to minimize any down-time on live environments</li><li>Marketing liaison to assist with launch and press strategy coordination for exciting product developments</li></ul>
 
 # Communications Coordinator
 - company: Springfield Women & Children's Center
   position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
+  duration: Jun, 2008  &mdash; May, 2010
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

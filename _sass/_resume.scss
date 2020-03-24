@@ -135,6 +135,13 @@
 .content-section {
   margin: 0 0 3rem;
 
+  .company-logo {
+    width: 40px;
+    max-width: 100%;
+    overflow: hidden;
+    @include border-radius(45px);
+  }
+
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
