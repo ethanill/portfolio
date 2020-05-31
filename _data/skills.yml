@@ -1,16 +1,16 @@
 # Skills
 # Organizational leadership
 - skill: Scrum
-  description: some words about scrum
+  description: Facilitating sprint planning, daily scrums, retrospectives, stakeholder meetings, and software demonstrations as a Product Owner across several scrum teams of varying sizes/skillsets
 
 # Communications strategy
 - skill: Agile Methodologies
-  description: some words about agile
+  description: Adopting agile frameworks to plan and monitor product development with constant stakeholder feedback, and guided projects to completion on time, within scope, and on budget.
 
 # Digital content development and creation
 - skill: Technical Toolbox
-  description: GitHub, Jira, Trello, MS Office, G Analytics, Sketch, Blender, Omnigraffle
+  description: GitHub, Jira, Confluence, Sketch, Asana, Trello, Postman, MS Office, G Analytics, Blender, Omnigraffle, Logic Pro, Audacity
 
 # Digital content development and creation
 - skill: Developer Skills
-  description: HTML, CSS, Javascript, Python, Solidity, Bash, Markdown
+  description: HTML, CSS, Javascript, Python, Bash, Markdown
