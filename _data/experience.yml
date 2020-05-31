@@ -1,7 +1,7 @@
 # Jobs
 # Artos, Product Manager
-- logo: images/artos-logo.svg
-#  company: Artos Systems
+- logo: images/artos-logo.jpg
+  company: Artos Systems
   position: Product Manager
   duration: Dec, 2019 &mdash; Present
   summary: Product Manager role overview, employee of the year award	<ul class="resume-item-list"><li>highlight 1</li><li>highlight 2</li></ul>
@@ -11,8 +11,8 @@
   summary: Product Owner role overview <ul class="resume-item-list"><li>Leading three concurrent scrum teams across front-end, back-end and blockchain specializations making story prioritizations towards unified product goals</li><li>Bridging the technical team and various business divisions to ensure our ambitious roadmap and feature offerings deliver to high standards satisfying the requirements of all key stakeholders</li><li>Built the Aventus Protocol; a public blockchain, Ethereum-based protocol to support a new smart ticketing standard</li><li>Blockchain product design incorporating; complex game theory, cryptography, governance and zero-knowledge proofs whilst designing a decentralized network with the aim to be an open-sourced and self-governing system</li><li>Designed and implemented a RESTful API and back-end microservice infastructure from the ground-up to simplify interaction with complex blockchain interfacing</li><li>Building wireframes, sequence flow diagrams, architectural prototypes and writing technical specification documents for new product features whilst accounting for UX considerations</li><li>Collaborating with QA to ensure thorough testing for all new features whilst managing open issues with relevant parties to minimize any down-time on live environments</li><li>Marketing liaison to assist with launch and press strategy coordination for exciting product developments</li></ul>
 
 # WhoSampled, Digital Product & Content Manager
-- logo: images/whosampled-logo.png
-#  company: WhoSampled
+- logo: images/whosampled-app.png
+  company: WhoSampled
   position: Digital Product & Content Manager
   duration: Jun, 2008  &mdash; May, 2010
   summary: Role overview <ul class="resume-item-list"><li>Oversaw the forecasting, production, testing and release of the various digital products for an online music discovery service with over 10.7 million monthly page views from 2.7 million unique visitors, across all major platforms (Web, Mobile, iOS & Android)</li><li>Lead delivery of digital product and continuously testing, measuring & building on new and existing features, using quantative analytical data and qualitative user feedback to increase traffic by engaging new users with 125% year on year growth</li></ul>
