@@ -18,12 +18,12 @@ resume_contact_email:           "ethanillingworth@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+447775666365"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "London"
 
 resume_header_contact_info:     "ethanillingworth@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello, I’m Ethan. I’m a creative guy, with an analytical approach to problem solving. I most enjoy working with inspiring teams to deliver high quality digital product on projects with integrity. I strive to distill technical complexity and cutting-edge practices to deliver proper value to end-users.</p>"
+resume_header_intro: "<p>Hello, I’m Ethan. I’m a creative person, with an analytical approach to problem solving. I most enjoy working with inspiring teams to deliver high-quality digital product on projects with integrity. I strive to distill technical complexity and cutting-edge practices to deliver real value to end-users.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
