@@ -140,11 +140,14 @@
     width: 5rem;
     max-width: 100%;
     overflow: hidden;
-    padding-top: 15px;
+    padding-top: 23px;
     padding-bottom: 15px;
   }
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item {
+    margin-bottom: 2rem;
+    margin-top: -3px;
+   }
 
   .resume-item-title {
     @include sans_bold;
