@@ -111,7 +111,6 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
   text-decoration: none;
   text-align: center;
   display: block;
@@ -122,20 +121,43 @@
   color: #333;
   line-height: 55px;
   @include transition(all .2s ease);
-  animation-name: pastels;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
+  background: linear-gradient(270deg, #fafa6e, #009c8f);
+  background-size: 400% 400%;
+  -webkit-animation: contact-gradient 5s ease infinite;
+  -moz-animation: contact-gradient 5s ease infinite;
+  animation: contact-gradient 5s ease infinite;
 
-  @keyframes pastels {
-    0%   {background-color: #efefef;}
-    10%  {background-color: #C7CEEA;}
-    25%  {background-color: #B5EAD7;}
-    40%  {background-color: #E2F0CB;}
-    55%  {background-color: #FFDAC1;}
-    75%  {background-color: #FFB7B2;}
-    90%  {background-color: #FF9AA2;}
-    100%  {background-color: #efefef;}
+  @-webkit-keyframes contact-gradient {
+   0%{background-position:0% 47%}
+   50%{background-position:100% 54%}
+   100%{background-position:0% 47%}
   }
+  @-moz-keyframes contact-gradient {
+     0%{background-position:0% 47%}
+     50%{background-position:100% 54%}
+     100%{background-position:0% 47%}
+  }
+  @keyframes contact-gradient {
+     0%{background-position:0% 47%}
+     50%{background-position:100% 54%}
+     100%{background-position:0% 47%}
+  }
+
+  // SOME TEST STYLING FOR ANIMATED BUTTON BG COLOURS
+  // animation-name: pastels;
+  // animation-duration: 20s;
+  // animation-iteration-count: infinite;
+  //
+  // @keyframes pastels {
+  //   0%   {background-color: #efefef;}
+  //   10%  {background-color: #C7CEEA;}
+  //   25%  {background-color: #B5EAD7;}
+  //   40%  {background-color: #E2F0CB;}
+  //   55%  {background-color: #FFDAC1;}
+  //   75%  {background-color: #FFB7B2;}
+  //   90%  {background-color: #FF9AA2;}
+  //   100%  {background-color: #efefef;}
+  // }
 
   &:hover {
     background-color: #333;

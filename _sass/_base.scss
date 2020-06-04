@@ -7,7 +7,28 @@
 }
 
 html {
-  background: $white;
+  background-color: white
+  // background: linear-gradient(270deg, #fafa6e, #009c8f);
+  // background-size: 100% 100%;
+  // -webkit-animation: contact-gradient 100s ease infinite;
+  // -moz-animation: contact-gradient 100s ease infinite;
+  // animation: contact-gradient 100s ease infinite;
+  //
+  // @-webkit-keyframes contact-gradient {
+  //  0%{background-position:0% 47%}
+  //  50%{background-position:100% 54%}
+  //  100%{background-position:0% 47%}
+  // }
+  // @-moz-keyframes contact-gradient {
+  //    0%{background-position:0% 47%}
+  //    50%{background-position:100% 54%}
+  //    100%{background-position:0% 47%}
+  // }
+  // @keyframes contact-gradient {
+  //    0%{background-position:0% 47%}
+  //    50%{background-position:100% 54%}
+  //    100%{background-position:0% 47%}
+  // }
 }
 
 body{
