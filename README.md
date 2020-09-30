@@ -1,12 +1,8 @@
 # Notes
 
+*A simple Jekyll + GitHub Pages powered personal portfolio*
+
 site currently deploys to https://illers.github.io/portfolio/ as github pages default
-
-# Resume template
-
-*A simple Jekyll + GitHub Pages powered resume template.*
-
-![img](images/screenshot.png)
 
 ## Docs
 
@@ -19,19 +15,11 @@ To test locally, run the following in your terminal:
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
-### Customizing
+#### Cconfiguration
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`.
 
-#### Options/configuration
-
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
-
-[...write these out...]
-
-#### Editing content
-
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly.
 
 ### Publishing to GitHub Pages for free
 
@@ -40,7 +28,3 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 ### Configuring with your own domain name
 
 To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
-
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
