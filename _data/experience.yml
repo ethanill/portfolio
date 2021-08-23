@@ -5,8 +5,8 @@
   company: Cudos Ventures
   position: Blockchain Product Manager
   duration: May, 2021 &mdash; Present
-  summary: Building the <a href="https://www.cudos.org/" target="_blank">Cudos Network</a>, a scalable compute blockchain enabling more efficient use of the world’s existing computing resources.
-  
+  summary: Building the <a href="https://www.cudos.org/" target="_blank">Cudos Network</a>, a scalable compute blockchain enabling more efficient use of the world’s existing computing resources. <ul class="resume-item-list"><li>Building a new Cosmos-based custom blockchain with cross-chain compatibility via token bridges and IBC</li><li>Augmenting the power of smart contract compute by providing a market for supply-side hardware operators</li></ul>
+
 # Aventus, Product Manager
 - logo: images/aventus-logo.png
   company: Aventus Network Services
