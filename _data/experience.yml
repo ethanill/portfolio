@@ -5,14 +5,14 @@
   company: Cudos Ventures
   position: Blockchain Product Manager
   duration: May, 2021 &mdash; Present
-  summary: Building the <a href="https://www.cudos.org/" target="_blank">Cudos Network</a>, a scalable compute blockchain enabling more efficient use of the world’s existing computing resources. <ul class="resume-item-list"><li>Building a new Cosmos-based custom blockchain with cross-chain compatibility via token bridges and IBC</li><li>Augmenting the power of smart contract compute by providing a market for supply-side hardware operators</li></ul>
+  summary: Building the <a href="https://www.cudos.org/" target="_blank">Cudos Network</a>, a scalable compute platform enabling more efficient use of the world’s existing computing resources. Think Airbnb for compute hardware, and accessible on-chain.<ul class="resume-item-list"><li>Led a cross-functional team to launch a new permissionless Cosmos SDK blockchain utilising Tendermint DPoS consensus with cross-chain interoperabilityand agnostic smart contract execution</li><li>Includes custom SDK modules for token management, bridging and and native account-based NFTs built with the ERC721 standard</li><li>Built DApps and tooling to accompany the new chain including; a <a href="https://explorer.cudos.org" target="_blank">block explorer</a>, <a href="https://explorer.cudos.org" target="_blank">network dashboard</a>, <a href="https://bridge.cudos.org" target="_blank">token bridge</a>, a <a href="https://wallet.cudos.org" target="_blank">migration assistant</a>, and a <a href="https://docs.cudos.org/build/cudos-blast.html" target="_blank">smart contract development SDK</a></li><li>Designed and executed the opt-in user token migration from an existing ERC20 token to a native gas token on the new chain at genesis</li></ul>
 
 # Aventus, Product Manager
 - logo: images/aventus-logo.png
   company: Aventus Network Services
   position: Product Manager
   duration: Dec, 2020 &mdash; May, 2021
-  summary: Lead Product Manager working on the <a href="https://www.aventus.io/" target="_blank">Aventus Network</a>, a scalable layer-2 for Ethereum that dramatically reduces network gas fees for transactions.	<ul class="resume-item-list"><li>Built and launched to production a secure, open-source public blockchain platform for enterprise use</li><li>Coordinating and scaling an interdisciplinary development team to ensure product success on deadlines for target go-to market</li><li>The Aventus Network has over 6 million users already and is trusted to hold several $million worth of cryptographic token assets</li></ul>
+  summary: Built the <a href="https://www.aventus.io/" target="_blank">Aventus Network</a>, a scalable, enterprise-grade, Proof of Stake layer-2 on Ethereum.	<ul class="resume-item-list"><li>Built and launched to production a secure, open-source blockchain platform for enterprise use in tandem with client partnerships</li><li>Coordinating and scaling an interdisciplinary development team to ensure product success on deadlines for target go-to market</li><li>The Aventus Network has over 8 million users and is trusted to hold several $million worth of cryptographic token assets</li></ul>
 
 # Artos, Product Manager
 - logo: images/artos-logo.jpg
