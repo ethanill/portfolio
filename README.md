@@ -2,7 +2,7 @@
 
 *A simple Jekyll + GitHub Pages powered personal portfolio*
 
-site currently deploys to https://illers.github.io/portfolio/ as github pages default
+site currently deploys to https://ethanill.github.io/portfolio/ as github pages default
 
 ## Setup Notes
 
