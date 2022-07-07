@@ -1,18 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Guru Meditation
-- project: Guru Meditation
-  role: Founder & Label Manager
-  duration: 2017 &mdash; Present
-  description: <a href="https://gurumeditation.zone" target="_blank">Guru Meditation</a> is an electronic music label tracing connections between computer electronics and therapeutic compositions. This solo project enables me to channel my creative output but also encompasses a broad range of skills including; A&R, graphic design, vinyl production, web development, marketing, event coordination & promotion.
-
-- project: Diary, She Wrote
-  role: Recording Engineer, Composer
-  duration: 2018 &mdash; 2020
-  description: <a href="https://www.diaryshewrote.com/" target="_blank">Diary, She Wrote</a> is a Top 5 Apple podcast about the complexities of sex, dating & coping with grief. I facilitated the podcast recordings and engineered each session, then whilst working alongside the creator, helped turn these recordings into a fully packaged first series. I also contributed by writing musical interludes including a main theme to the podcast.
+- project: Bronze
+  role: Advisor
+  duration: 2019 &mdash; Present
+  description: Web3 consulting for <a href="https://bronze.ai" target="_blank">Bronze</a>, working on intelligent generative audio files and new creative tools for contemporary composition.
 
 - project: HQI
   role: Resident
   duration: 2018 &mdash; Present
-  description: Resident sonic artist at <a href="https://h-q-i.com/" target="_blank">HQI</a>, an artist run non-profit providing arts facilities to visual and recording artists.
+  description: Resident at <a href="https://h-q-i.com/" target="_blank">HQI</a>, an independent, artist-run non-profit providing free studio facilities to visual and recording artists based in London.
+
+- project: Diary, She Wrote
+  role: Recording Engineer, Composer
+  duration: 2018 &mdash; 2020
+  description: <a href="https://www.diaryshewrote.com/" target="_blank">Diary, She Wrote</a> was a Top 5 Apple podcast about the complexities of sex, dating & coping with grief. I facilitated the podcast recordings and engineered each session, then whilst working alongside the creator, helped turn these recordings into a fully packaged first series. I also contributed by writing musical interludes and the main theme.
+
+- project: Guru Meditation
+  role: Founder & Label Manager
+  duration: 2017 &mdash; 2018
+  description: <a href="https://gurumeditation.zone" target="_blank">Guru Meditation</a> is an electronic music label tracing connections between computer electronics and therapeutic compositions. This solo project allowed me to explore a broad range of skills including; A&R, graphic design, vinyl production, web development, marketing, event coordination & promotion.

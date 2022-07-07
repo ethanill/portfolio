@@ -1,16 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Scrum
-  description: Facilitating sprint planning, daily scrums, brainstorming sessions, stakeholder updates, and software demonstrations as a Product Owner across several scrum teams.
+- skill: Strategic Planning
+  description: Working within small technology teams and start-up companies to orient teams around delivering value quickly and defining a roadmap based on finding product-market fit and the technical dependencies of blockchain software development. 
 
-# Communications strategy
-- skill: Agile Methodologies
-  description: Adopting agile frameworks to plan and monitor product development with constant iteration on ideas based on stakeholder feedback. I've guided complex projects to completion on time, within scope, and on budget.
+- skill: Agile Methodologies & Scrum
+  description: Adopting agile frameworks to plan and monitor product development with constant iteration on ideas based on stakeholder feedback. I've guided complex projects to completion on time, within scope, and on budget. <br><br> Facilitating sprint planning, daily scrums, brainstorming sessions, stakeholder updates, and software demonstrations as a Product Owner across several scrum teams.
 
-# Digital content development and creation
 - skill: Technical Toolbox
-  description: GitHub, Jira, Confluence, Sketch, Asana, Trello, Postman, MS Office, G Analytics, Blender, Omnigraffle, Logic Pro, Audacity
+  description: GitHub, Jira, Confluence, Figma, Sketch, Notion, Discord, Asana, Trello, Postman, MS Office, G Analytics, Blender, Omnigraffle, Logic Pro, Audacity
 
-# Digital content development and creation
 - skill: Developer Skills
-  description: HTML, CSS, Javascript, Python, Bash, Markdown
+  description: (basic) Solidity, HTML, CSS, Javascript, Python, Bash, Markdown
