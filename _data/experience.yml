@@ -2,7 +2,7 @@
 
 # Cudos, Blockchain Product Manager
 - logo: images/cudos-logo.png
-  company: Cudos Ventures
+  company: Cudo Ventures
   position: Blockchain Product Manager
   duration: May, 2021 &mdash; Present
   summary: Building the <a href="https://www.cudos.org/" target="_blank">Cudos Network</a>, a scalable compute platform enabling more efficient use of the world’s existing computing resources. Think Airbnb for compute hardware, and accessible on-chain.<ul class="resume-item-list"><li>Led a cross-functional team to launch a new permissionless Cosmos SDK blockchain utilising Tendermint DPoS consensus with cross-chain interoperability and agnostic smart contract execution</li><li>Includes custom, open-source SDK modules for token management, bridging and and native account-based NFTs built with the ERC721 standard</li><li>Built DApps and tooling to accompany the new chain including; a <a href="https://explorer.cudos.org" target="_blank">block explorer</a>, <a href="https://dashboard.cudos.org" target="_blank">network dashboard</a>, <a href="https://bridge.cudos.org" target="_blank">token bridge</a>, a <a href="https://wallet.cudos.org" target="_blank">migration assistant</a>, and a <a href="https://docs.cudos.org/build/cudos-blast.html" target="_blank">smart contract development SDK</a></li><li>Designed and executed the opt-in user token migration from an existing ERC20 token to a native gas token on the new chain at genesis</li></ul>
