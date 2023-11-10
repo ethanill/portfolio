@@ -2,11 +2,6 @@
 {% if site.resume_social_links %}
 <ul class="icon-links">
 
-  <!-- GitHub link -->
-  {% if site.resume_social_links.resume_github_url %}
-  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs" target="_blank">{% include icons/icon-github.html %}</a></li>
-  {% endif %}
-
   <!-- Twitter link -->
   {% if site.resume_social_links.resume_twitter_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_twitter_url }}" class="icon-link" itemprop="sameAs" target="_blank">{% include icons/icon-twitter.html %}</a></li>
@@ -32,6 +27,11 @@
   <!-- Instagram link -->
   {% if site.resume_social_links.resume_instagram_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_instagram_url }}" class="icon-link" itemprop="sameAs" target="_blank">{% include icons/icon-instagram.html %}</a></li>
+  {% endif %}
+  
+  <!-- GitHub link -->
+  {% if site.resume_social_links.resume_github_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs" target="_blank">{% include icons/icon-github.html %}</a></li>
   {% endif %}
 
   <!-- ethereum link -->
