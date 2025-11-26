@@ -1,11 +1,15 @@
 # Jobs
 
-# Cudos, Blockchain Product Manager
+# Phi Labs, Principal Product Manager
 - logo: images/phi-logo.svg
   company: Phi Labs
-  position: Product Manager
-  duration: Jan, 2023 &mdash; Present
-  summary: Core contributor to <a href="https://archway.io/" target="_blank">Archway <img src="images/archway-circle.svg" alt="Archway Logo" width="16" height="16"></a>, a permissionless smart contract blockchain that enables sustainable economic models for developers via protocol-level rewards mechanisms.<ul class="resume-item-list"><li>Coordinated testing of the protocol prior to a successful mainnet launch with 100+ validators and token airdrop</li><li>Working with dApp teams to bring initial developer cohort on-chain and demonstrate unique use-cases</li><li>Shaping product strategy and supporting valuable integrations</li><li>Member of the community owned Liquidity Council delegating funds to dApps fostering protocol growth</li>
+  position: Principal Product Manager
+  duration: Jan, 2025 &mdash; Nov 2025
+  summary: Lead development 0 → 1 on <a href="https://www.boltliquidity.io/" target="_blank">Bolt Liquidity <img src="images/boltfavicon.png" alt="Bolt Logo" width="20" height="20"></a>, a novel oracle-based DeFi tool enabling zero slippage swaps with hyper-efficient LP.<ul class="resume-item-list"><li>Designed, built, deployed and enabled go-to-market of a first-of-its-kind liquidity protocol</li><li>Integrated with market makers, and swap UIs</li><li>Project managed cross-functional team of 15+ including engineering, design, and marketing to ensure alignment on product vision and successful go-to-market strategy</li></ul>
+
+- position: Product Manager
+  duration: Jan, 2023 &mdash; Dec 2024
+  summary: Product Manager for Phi Labs, a blockchain R&D company building open-source infrastructure and developer tools. Core contributor to <a href="https://archway.io/" target="_blank">Archway <img src="images/archway-circle.svg" alt="Archway Logo" width="16" height="16"></a>, a permissionless smart contract blockchain in Cosmos that enables sustainable economic models for developers via protocol-level rewards mechanisms.<ul class="resume-item-list"><li>Led coordination of chain launch with 100+ validators and TGE alongside community airdrop</li><li>Worked directly with third-party dApp teams to bring initial developer cohort on-chain and demonstrate unique use-cases</li><li>Lead member of the community owned Liquidity Council delegating $100k+ funds to dApps fostering protocol growth</li>
 
 # Cudos, Blockchain Product Manager
 - logo: images/cudos-logo.png
@@ -34,7 +38,7 @@
 
 # WhoSampled, Digital Product & Content Manager
 - logo: images/whosampled-app.png
-  company: WhoSampled
+  company: WhoSampled (acq. Spotify)
   position: Digital Product & Content Manager
   duration: Jun, 2015  &mdash; May, 2018
   summary: Designed and delivered new features to <a href="https://www.whosampled.com" target="_blank">WhoSampled.com</a> and the associated suite of applications. <ul class="resume-item-list"><li>Oversaw various digital products for the online music discovery service with over 10.7 million monthly page views from 2.7 million unique visitors, across all major platforms (Web, Mobile, native iOS & Android)</li><li>Harnessed quantative analytical data and qualitative user feedback to increase traffic by engaging new users with 125% year on year growth</li></ul>

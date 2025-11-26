@@ -1,10 +1,10 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Bronze
+- project: Bronze.ai
   role: Advisor
   duration: 2019
-  description: Web3 consulting for <a href="https://bronze.ai" target="_blank">Bronze</a>, working on intelligent generative audio files and new creative tools for contemporary composition.
+  description: Web3 consulting for <a href="https://bronze.ai" target="_blank">BRONZE</a>, working on AI generative audio stems and new creative tools for contemporary composition.
 
 - project: HQI
   role: Resident
