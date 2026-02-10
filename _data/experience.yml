@@ -26,7 +26,7 @@
   summary: Built the <a href="https://www.aventus.io/" target="_blank">Aventus Network</a>, a scalable, enterprise-grade, Proof of Stake layer-2 for Ethereum.	<ul class="resume-item-list"><li>Built and launched a secure, open-source enterprise blockchain platform using Polkadot's Substrate SDK in their parachain ecosystem</li><li>Coordinating and scaling an interdisciplinary development team to ensure product success on deadlines for target go-to market</li><li>The Aventus Network has over 8 million users and is trusted to hold several $million worth of cryptographic token assets</li></ul>
 
 # Artos, Product Manager
-- logo: images/artos-logo.jpg
+- logo: images/artos-logo.png
   company: Artos Systems
   position: Product Manager
   duration: Dec, 2019 &mdash; Nov, 2020

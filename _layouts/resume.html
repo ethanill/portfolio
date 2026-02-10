@@ -31,7 +31,7 @@
         </div>
 
         <div class="executive-summary" itemprop="description">
-          <p>I'm a Senior PM based in the UK with 10+ years of IT experience.</p><p>As a creatively-driven person with a pragmatic approach to technological problem solving I've spent my career building online public goods infrastructure alongside inspiring engineering teams.</p>Specialised in emergent cryptographic technology, helping shift the web to something more; democratic, composable and open source. I offer my skills in product development, service consultation, and strategic advising to projects and teams that follow these principles.<p><p> ✧ </p>
+          <p>I'm a Senior PM based in the UK with 10+ years of IT experience.</p><p>As a creatively-driven person with a pragmatic approach to technological problem solving I've spent my career building online public goods infrastructure alongside inspiring engineering teams.</p>Specialised in emergent cryptographic technology, helping shift the web to something more; democratic, composable and open source. I offer my skills in product development, service consultation, and strategic advising to projects and teams that follow these principles.<p><p><span class="theme-toggle no-print" title="✧">✧</span></p>
         </div>
 
       </header>
@@ -172,6 +172,25 @@
 
     </div>
 
+    <script>
+      (function() {
+        var toggle = document.querySelector('.theme-toggle');
+        var body = document.body;
+        if (localStorage.getItem('theme') === 'nightelf') {
+          body.classList.add('theme-nightelf');
+        }
+        if (toggle) {
+          toggle.addEventListener('click', function() {
+            body.classList.toggle('theme-nightelf');
+            if (body.classList.contains('theme-nightelf')) {
+              localStorage.setItem('theme', 'nightelf');
+            } else {
+              localStorage.removeItem('theme');
+            }
+          });
+        }
+      })();
+    </script>
   </body>
 
 </html>
